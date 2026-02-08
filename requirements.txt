@@ -1,0 +1,7 @@
+Flask==3.0.0
+Flask-Bcrypt==1.0.1
+PyJWT==2.8.1
+pyotp==2.9.0
+PyQRCode==1.9.2
+Flask-Limiter==3.5.0
+python-dotenv==1.0.0
